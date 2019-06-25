@@ -1,8 +1,8 @@
 # pythoninchemistry Hackathon
 
 Programming, software, apps, and coding are becoming a larger and larger component of the chemistry education. 
-However, many educators of chemistry are not skill in the use or development of these tools. 
-The [pythoninchemistry](https://pythoninchemistry.org) project is working to create programmatic examples and tools for educating chemical problems. 
+However, many educators of chemistry are not skilled in the use or development of these tools. 
+The [pythoninchemistry](https://pythoninchemistry.org) project is working to create programmatic examples and tools for use in educating chemical problems. 
 These are Python code examples that can be used to aid in understanding and visualisation for all areas for the undergraduate chemistry curriculum; such as the [pylj](https://pythoninchemistry.org/pylj) software for introducing molecular dynamics simulation [1] and the steady state approximation numerical simulation [2]. 
 However, in order to increase and improve the content available from this project, we need your help. 
 
